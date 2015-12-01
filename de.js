@@ -228,8 +228,8 @@ extendLocale('de', 'Deutsch', {
     tagTreeElementLink: 'Wähle {{element}} Element',
     tagTreeElementTitle: 'Inhalt des "{{element}}" Elements auswählen',
     tagTreeRoot: 'root',
-    tagTreeRootLink: 'Markiere den kompletten editierbaren Inhalt'',
-    tagTreeRootTitle: 'Markiere den kompletten editierbaren Inhalt'',
+    tagTreeRootLink: 'Markiere den kompletten editierbaren Inhalt',
+    tagTreeRootTitle: 'Markiere den kompletten editierbaren Inhalt',
 
     textBlockQuoteTitle: 'Blocksatz',
     textBoldTitle: 'Fett',
