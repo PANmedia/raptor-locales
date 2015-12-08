@@ -19,7 +19,7 @@ extendLocale('it', 'Italiano', {
     classMenuTitle: "Selettore di stile",
     clearFormattingTitle: "Annullare la formattazione",
     clickButtonToEditText: "Modifica",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatico",
     colorMenuBasicBlack: "Nero",
     colorMenuBasicBlue: "Blu",

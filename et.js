@@ -19,7 +19,7 @@ extendLocale('et', 'Eesti', {
     classMenuTitle: "Stiili valija",
     clearFormattingTitle: "Eemalda vorming",
     clickButtonToEditText: "Redigeeri",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automaatne",
     colorMenuBasicBlack: "Must",
     colorMenuBasicBlue: "Sinine",

@@ -19,7 +19,7 @@ extendLocale('no', 'Norsk', {
     classMenuTitle: "Valg av stil",
     clearFormattingTitle: "Fjern formatering",
     clickButtonToEditText: "Rediger",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatisk",
     colorMenuBasicBlack: "Svart",
     colorMenuBasicBlue: "Blå",

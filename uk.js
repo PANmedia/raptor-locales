@@ -19,7 +19,7 @@ extendLocale('uk', 'українська', {
     classMenuTitle: "Стиль палітра",
     clearFormattingTitle: "Зняти форматування",
     clickButtonToEditText: "Редагувати",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Автоматичні",
     colorMenuBasicBlack: "Чорний",
     colorMenuBasicBlue: "Синій",

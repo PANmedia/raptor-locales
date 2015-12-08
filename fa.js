@@ -19,7 +19,7 @@ extendLocale('fa', '(فارسي)', {
     classMenuTitle: "سبک کننده",
     clearFormattingTitle: "زدودن شکلبندی",
     clickButtonToEditText: "ویرایش",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "خودکار",
     colorMenuBasicBlack: "سیاه و سفید",
     colorMenuBasicBlue: "آبی",

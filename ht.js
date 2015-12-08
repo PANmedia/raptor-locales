@@ -19,7 +19,7 @@ extendLocale('ht', 'Kreyòl Ayisyen', {
     classMenuTitle: "Estil sélecteur",
     clearFormattingTitle: "Clairement en",
     clickButtonToEditText: "Edite",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Otomatik",
     colorMenuBasicBlack: "Noua",
     colorMenuBasicBlue: "Blè",

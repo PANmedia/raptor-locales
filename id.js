@@ -19,7 +19,7 @@ extendLocale('id', 'Indonesia', {
     classMenuTitle: "Gaya picker",
     clearFormattingTitle: "Menghapus pemformatan",
     clickButtonToEditText: "Mengedit",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Otomatis",
     colorMenuBasicBlack: "Hitam",
     colorMenuBasicBlue: "Biru",

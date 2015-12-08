@@ -19,7 +19,7 @@ extendLocale('he', 'עברית', {
     classMenuTitle: "סגנון בורר",
     clearFormattingTitle: "נקה עיצוב",
     clickButtonToEditText: "עריכה",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "אוטומטי",
     colorMenuBasicBlack: "שחור",
     colorMenuBasicBlue: "כחול",

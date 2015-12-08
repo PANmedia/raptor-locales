@@ -19,7 +19,7 @@ extendLocale('lt', 'Lietuvių', {
     classMenuTitle: "Stiliaus parinkiklis",
     clearFormattingTitle: "Valyti formatavimą",
     clickButtonToEditText: "Redaguoti",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatinis",
     colorMenuBasicBlack: "Juoda",
     colorMenuBasicBlue: "Mėlyna",

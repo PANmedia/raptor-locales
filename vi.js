@@ -19,7 +19,7 @@ extendLocale('vi', 'Việt Nam', {
     classMenuTitle: "Chọn phong cách",
     clearFormattingTitle: "Xoá định dạng",
     clickButtonToEditText: "Chỉnh sửa",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Tự động",
     colorMenuBasicBlack: "Đen",
     colorMenuBasicBlue: "Màu xanh",

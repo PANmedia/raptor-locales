@@ -19,7 +19,7 @@ extendLocale('hu', 'magyar', {
     classMenuTitle: "Stílus Pipetta",
     clearFormattingTitle: "Formázás törlése",
     clickButtonToEditText: "Szerkesztése",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatikus",
     colorMenuBasicBlack: "Fekete",
     colorMenuBasicBlue: "Kék",

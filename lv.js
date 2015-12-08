@@ -19,7 +19,7 @@ extendLocale('lv', 'Latviešu', {
     classMenuTitle: "Stila izvēles",
     clearFormattingTitle: "Notīrīt formatējumu",
     clickButtonToEditText: "Rediģēt",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automātiska",
     colorMenuBasicBlack: "Black",
     colorMenuBasicBlue: "Zila",

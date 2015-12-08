@@ -19,7 +19,7 @@ extendLocale('da', 'dansk', {
     classMenuTitle: "Stil vælgeren",
     clearFormattingTitle: "Ryd formatering",
     clickButtonToEditText: "Rediger",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatisk",
     colorMenuBasicBlack: "Sort",
     colorMenuBasicBlue: "Blå",

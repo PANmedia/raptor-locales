@@ -18,7 +18,7 @@ extendLocale('sv', 'Svenska', {
     clearFormattingTitle: "Ta bort formatering",
     clickButtonToEditPluginButton: "Klicka här för att redigera",
     clickButtonToEditText: "Redigera",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatic",
     colorMenuBasicBlack: "Black",
     colorMenuBasicBlue: "Blue",

@@ -19,7 +19,7 @@ extendLocale('sk', 'slovenčina', {
     classMenuTitle: "Výber štýlov",
     clearFormattingTitle: "Vymazať formátovanie",
     clickButtonToEditText: "Upraviť",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatické",
     colorMenuBasicBlack: "Čierna",
     colorMenuBasicBlue: "Modrá",

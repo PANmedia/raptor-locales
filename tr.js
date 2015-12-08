@@ -19,7 +19,7 @@ extendLocale('tr', 'Türkçe', {
     classMenuTitle: "Stil seçicisini",
     clearFormattingTitle: "Biçimlendirmeyi Temizle",
     clickButtonToEditText: "Düzenle",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Otomatik",
     colorMenuBasicBlack: "Siyah",
     colorMenuBasicBlue: "Mavi",

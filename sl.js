@@ -19,7 +19,7 @@ extendLocale('sl', 'slovenščina', {
     classMenuTitle: "Slog izbirnik",
     clearFormattingTitle: "Počisti oblikovanje",
     clickButtonToEditText: "Urejanje",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Avtomatski",
     colorMenuBasicBlack: "Black",
     colorMenuBasicBlue: "Modra",

@@ -19,7 +19,7 @@ extendLocale('th', 'ไทย', {
     classMenuTitle: "เลือกลักษณะ",
     clearFormattingTitle: "ล้างการจัดรูปแบบ",
     clickButtonToEditText: "แก้ไข",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "อัตโนมัติ",
     colorMenuBasicBlack: "สีดำ",
     colorMenuBasicBlue: "บลู",

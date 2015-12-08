@@ -19,7 +19,7 @@ extendLocale('ro', 'Română', {
     classMenuTitle: "Selectorul de stil",
     clearFormattingTitle: "Clare de formatare",
     clickButtonToEditText: "Editare",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automată",
     colorMenuBasicBlack: "Negru",
     colorMenuBasicBlue: "Albastru",

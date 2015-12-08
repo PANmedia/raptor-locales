@@ -18,7 +18,7 @@ extendLocale('nl', 'Nederlands', {
     clearFormattingTitle: "Verwijder opmaak",
     clickButtonToEditPluginButton: "Klik hier voor het beginnen met bewerken",
     clickButtonToEditText: "Bewerken",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatic",
     colorMenuBasicBlack: "Black",
     colorMenuBasicBlue: "Blue",

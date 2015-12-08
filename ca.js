@@ -19,7 +19,7 @@ extendLocale('ca', 'Català', {
     classMenuTitle: "Selector d'estil",
     clearFormattingTitle: "Suprimeix el format",
     clickButtonToEditText: "Editar",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automàtica",
     colorMenuBasicBlack: "Negre",
     colorMenuBasicBlue: "Blau",

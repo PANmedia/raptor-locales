@@ -19,7 +19,7 @@ extendLocale('ms', 'Melayu', {
     classMenuTitle: "Gaya picker",
     clearFormattingTitle: "Format yang jelas",
     clickButtonToEditText: "Edit",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatik",
     colorMenuBasicBlack: "Hitam",
     colorMenuBasicBlue: "Biru",

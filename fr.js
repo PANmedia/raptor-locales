@@ -18,7 +18,7 @@ extendLocale('fr', 'Français', {
     classMenuTitle: "Sélecteur de style",
     clearFormattingTitle: "Effacer la mise en forme",
     clickButtonToEditText: "Cliquer pour commencer la modification",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatique",
     colorMenuBasicBlack: "Noir",
     colorMenuBasicBlue: "Bleu",

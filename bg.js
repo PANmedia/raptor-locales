@@ -19,7 +19,7 @@ extendLocale('bg', 'Български', {
     classMenuTitle: "Избор на стил",
     clearFormattingTitle: "Изчисти форматирането",
     clickButtonToEditText: "Редактиране",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Автоматично",
     colorMenuBasicBlack: "Черно",
     colorMenuBasicBlue: "Син",

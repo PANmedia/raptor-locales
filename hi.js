@@ -19,7 +19,7 @@ extendLocale('hi', 'मानक हिन्दी', {
     classMenuTitle: "शैली पिकर",
     clearFormattingTitle: "स्वरूपण साफ़ करें",
     clickButtonToEditText: "संपादित करें",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "स्वत:",
     colorMenuBasicBlack: "ब्लैक",
     colorMenuBasicBlue: "ब्लू",

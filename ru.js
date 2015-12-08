@@ -16,7 +16,7 @@ extendLocale('ru', 'Russian', {
     clearFormattingTitle: "Очистить форматирование",
     clickButtonToEditPluginButton: "Нажмите для начала редактирования",
     clickButtonToEditText: "Редактировать",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Автоматически",
     colorMenuBasicBlack: "Черный",
     colorMenuBasicBlue: "Синий",

@@ -19,7 +19,7 @@ extendLocale('ar', 'العربية', {
     classMenuTitle: "منتقي نمط",
     clearFormattingTitle: "مسح التنسيق",
     clickButtonToEditText: "تحرير",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "تلقائي",
     colorMenuBasicBlack: "الأسود",
     colorMenuBasicBlue: "الأزرق",

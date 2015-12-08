@@ -19,7 +19,7 @@ extendLocale('fi', 'suomi', {
     classMenuTitle: "Tyylin valinta",
     clearFormattingTitle: "Poista muotoilut",
     clickButtonToEditText: "Muokkaa",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automaattinen",
     colorMenuBasicBlack: "Musta",
     colorMenuBasicBlue: "Sininen",

@@ -18,7 +18,7 @@ extendLocale('es', 'Español', {
     clearFormattingTitle: "Limpiar Formato",
     clickButtonToEditPluginButton: "Haga clic para empezar a editar",
     clickButtonToEditText: "Editar",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatic",
     colorMenuBasicBlack: "Black",
     colorMenuBasicBlue: "Blue",

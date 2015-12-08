@@ -19,7 +19,7 @@ extendLocale('zh-CHS', '中文 (简体)', {
     classMenuTitle: "样式选择器",
     clearFormattingTitle: "清除格式",
     clickButtonToEditText: "编辑",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "自动",
     colorMenuBasicBlack: "黑色",
     colorMenuBasicBlue: "蓝色",

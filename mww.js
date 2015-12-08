@@ -19,7 +19,7 @@ extendLocale('mww', 'Hmoob Daw', {
     classMenuTitle: "Style picker",
     clearFormattingTitle: "Luaj formatting",
     clickButtonToEditText: "Kho kom raug",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Tsis siv neeg",
     colorMenuBasicBlack: "Dub nciab",
     colorMenuBasicBlue: "Xia",

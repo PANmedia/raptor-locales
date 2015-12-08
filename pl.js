@@ -19,7 +19,7 @@ extendLocale('pl', 'Polski', {
     classMenuTitle: "Selektor stylu",
     clearFormattingTitle: "Wyczyść formatowanie",
     clickButtonToEditText: "Edycja",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "Automatyczne",
     colorMenuBasicBlack: "Czarny",
     colorMenuBasicBlue: "Niebieski",

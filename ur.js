@@ -19,7 +19,7 @@ extendLocale('ur', 'اردو', {
     classMenuTitle: "طرز چنندہ",
     clearFormattingTitle: "وضع کاری صاف کریں",
     clickButtonToEditText: "تدوین کریں",
-    clickButtonToEditTitle: "",
+    clickButtonToEditTitle: null,
     colorMenuBasicAutomatic: "خود کار",
     colorMenuBasicBlack: "سیاہ",
     colorMenuBasicBlue: "بلیو",
